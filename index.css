@@ -8,3 +8,6 @@ footer{
   -moz-background-size: cover;   
   -o-background-size: cover;
 }
+body > div.full.height > div.following.bar.light > div > div > div > div > a:nth-child(4){
+  display: none
+}
