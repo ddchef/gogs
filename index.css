@@ -26,3 +26,6 @@ body > div.full.height > div.following.bar.light > div > div > div > div > a:nth
 .ui.segment{
   border:none
 }
+body:not(.full-width){
+  overflow-y: auto;
+}
