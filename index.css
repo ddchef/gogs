@@ -1,13 +1,6 @@
 footer{
   display: none
 }
-.full.height{
-  background: url(https://storage.xjie.me/git-bj.jpg) no-repeat;
-  background-size: cover;   
-  -webkit-background-size: cover;   
-  -moz-background-size: cover;   
-  -o-background-size: cover;
-}
 body > div.full.height > div.following.bar.light > div > div > div > div > a:nth-child(4),body > div.full.height > div.user.signin > div > div > form > h3{
   display: none
 }
