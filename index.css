@@ -11,21 +11,3 @@ footer{
 body > div.full.height > div.following.bar.light > div > div > div > div > a:nth-child(4),body > div.full.height > div.user.signin > div > div > form > h3{
   display: none
 }
-.ui.message{
-  margin: 0;
-  background: #fff;
-  box-shadow: none
-}
-.ui.negative.message,.ui.negative.message{
-  background-color: #fff;
-  box-shadow: none
-}
-.ui.attached.segment{
-  border:none
-}
-.ui.segment{
-  border:none
-}
-body:not(.full-width){
-  overflow-y: auto;
-}
